@@ -1,0 +1,5 @@
+package com.substring.auth.auth_app_backend.model;
+
+public enum Provider {
+    LOCAL,GOOGLE,FACEBOOK,GITHUB
+}
